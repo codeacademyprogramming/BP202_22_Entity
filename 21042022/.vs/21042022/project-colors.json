@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "167ef2d8-1d12-4b82-9b68-16a68e96ed2b": {
+      "ProjectGuid": "167ef2d8-1d12-4b82-9b68-16a68e96ed2b",
+      "DisplayName": "UniversityApp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
